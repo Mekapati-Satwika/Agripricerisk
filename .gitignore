@@ -1,0 +1,5 @@
+agri_env/
+__pycache__/
+*.dll
+*.pkl
+*.pt
